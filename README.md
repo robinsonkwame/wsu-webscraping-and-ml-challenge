@@ -32,7 +32,7 @@ Please fork this project and commit the following to your respository:
 
 ## Getting Started and How your Fork will be Tested
 
-1.  **Clone this repository (if applicable) or create a new directory.**
+1.  **Fork and clone this repository**
 2.  **Create a virtual environment:**
     ```bash
     python -m venv venv
