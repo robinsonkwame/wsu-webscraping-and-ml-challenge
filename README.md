@@ -1,4 +1,6 @@
-# Web Scraping and Image Classification Challenge: Finding Cats on a Webpage!
+## Finding Cats on a Webpage!
+
+### A Web Scraping and Image Classification Challenge: 
 
 ## Introduction
 
